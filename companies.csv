@@ -1,3 +1,5 @@
 name,num_employees,num_customers,country
 testic,12,24,SRB
+testic2,13,25,SRB2
+testic3,14,26,SRB3
 ExampleCorp,100,1000,USA
