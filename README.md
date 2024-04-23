@@ -91,13 +91,24 @@ As soon as speakerphone is activated, phone restarts and call is dropped
 Generate the test suite (only summary no steps required) that all shutters must undergo before they are delivered to the customer (assume all electrical connections are fine).**
 
 Verify that button UP is raising  the shutters
+
 Verify that button DOWN is lowering the shutters
+
 Verify that button STOP is stopping any movement
+
 Verify maximum range of remote (defined by manufacture)
+
 Verify that only dedicated remote can activate shutter
+
 Verify functionality of a remote through various barriers (Walls, glass, etc.)
+
 Verify endurance of shutters after continuously raising and lowering with remote
+
 Verify that shutters return to default state in case of power failure (or previous)
+
 Verify that shutters can be lowered and raised manually
+
 Verify that shutters move in designated speed without any lag
+
 Verify that button on remote are clearly labelled and user friendly
+
